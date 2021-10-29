@@ -1,0 +1,20 @@
+{
+  "name": "trading-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.1",
+    "express": "^4.17.1",
+    "inquirer": "^8.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
